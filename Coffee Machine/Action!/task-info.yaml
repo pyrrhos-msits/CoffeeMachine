@@ -311,6 +311,9 @@ files:
         print('Yes I can make that amount of coffee')
 
   learner_created: true
+- name: machine/Probe.py
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/68/stages/369/implement
-status: Unchecked
-record: -1
+status: Solved
+record: 4
